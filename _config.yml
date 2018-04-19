@@ -1,0 +1,12 @@
+# Site settings
+title: Streaming Data Solutions
+email: foxmike@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Streaming Data Architectures featuring Scalable Routing of Data, Transformation, Validation, Profiling, Comparison, Normalization and Cross Referencing.
+baseurl: "/sds" # the subpath of your site, e.g. /blog/
+url: "https://foxmike.github.io" # the base hostname & protocol for your site
+twitter_username: whipstitched
+github_username:  foxmike
+
+# Build settings
+markdown: kramdown
