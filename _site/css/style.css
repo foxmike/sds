@@ -322,21 +322,21 @@
 					background: #7fb7d2;
 				}
 
-			.icon.circle.fa-facebook {
+			.icon.circle.fa-slack {
 				background: #7490c3;
 				color: white;
 			}
 
-				.icon.circle.fa-facebook:hover {
+				.icon.circle.fa-slack:hover {
 					background: #829bc9;
 				}
 
-			.icon.circle.fa-google-plus {
+			.icon.circle.fa-stack-overflow {
 				background: #db6b67;
 				color: white;
 			}
 
-				.icon.circle.fa-google-plus:hover {
+				.icon.circle.fa-stack-overflow:hover {
 					background: #df7b77;
 				}
 
@@ -349,12 +349,12 @@
 					background: #e1b89b;
 				}
 
-			.icon.circle.fa-dribbble {
+			.icon.circle.fa-stack-exchange {
 				background: #da83ae;
 				color: white;
 			}
 
-				.icon.circle.fa-dribbble:hover {
+				.icon.circle.fa-stack-exchange:hover {
 					background: #df93b8;
 				}
 
